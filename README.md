@@ -1,5 +1,6 @@
 # dio-primeiro-desafio
-Desafio de projeto sobre o Git
+Repositório para o Desafio de Projeto
 
 ##Links Úteis
+
 [Sobre o Markdown](https://www.markdownguide.org/getting-started/)
